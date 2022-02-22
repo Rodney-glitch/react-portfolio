@@ -148,7 +148,6 @@ button:hover {
   color: #59b256;
   font-weight: 800;
   transition: all 0.5s ease-in-out;
-  box-shadow: 5px;
 }
 
 .af {
@@ -213,7 +212,6 @@ button:hover {
     color: #59b256;
     font-weight: 800;
     transition: all 0.5s ease-in-out;
-    box-shadow: 5px;
   }
 
   .cv .af {
