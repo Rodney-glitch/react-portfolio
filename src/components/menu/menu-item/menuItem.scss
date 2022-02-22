@@ -1,0 +1,19 @@
+ul {
+  width: 60%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  li {
+    margin-bottom: 20px;
+    a {
+      font-size: 30px;
+      color: white;
+      font-weight: 300;
+      text-decoration: none;
+
+      &:hover {
+        font-weight: 500;
+      }
+    }
+  }
+}

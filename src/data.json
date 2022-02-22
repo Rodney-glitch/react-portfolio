@@ -1,0 +1,58 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "name": "Automated Testing"
+    },
+    {
+      "id": 1,
+      "name": "API Testing"
+    },
+    {
+      "id": 2,
+      "name": "Manual Testing"
+    },
+    {
+      "id": 3,
+      "name": "Functional Testing"
+    },
+    {
+      "id": 4,
+      "name": "Performance Testing"
+    },
+    {
+      "id": 5,
+      "name": "Exploratory Testing"
+    }
+  ],
+  "tools": [
+    {
+      "id": 0,
+      "name": "Cypress"
+    },
+    {
+      "id": 1,
+      "name": "Selenium"
+    },
+    {
+      "id": 2,
+      "name": "Java | Javascript(React)"
+    },
+    {
+      "id": 3,
+      "name": "Rest Assured"
+    },
+    {
+      "id": 4,
+      "name": "Postman"
+    },
+    {
+      "id": 5,
+      "name": "JIRA"
+    },
+    {
+      "id": 6,
+      "name": "JMeter"
+    }
+  ]
+}
