@@ -1,5 +1,6 @@
 .c {
   position: relative;
+  background-color: #e9ecef;
 }
 
 .c-bg {
@@ -79,10 +80,12 @@ input {
   width: 50%;
   height: 50px;
   border: none;
-  border-bottom: 3px solid #000;
+  border-bottom: 2px solid #adb5bd;
   margin: 10px 0px;
   font-size: 14px;
   padding-left: 10px;
+  outline: none;
+  background-color: #e9ecef;
 }
 
 input:focus:hover {
@@ -96,6 +99,7 @@ textarea {
   margin: 10px 0px;
   font-size: 14px;
   padding-left: 10px;
+  border-color: #adb5bd;
 }
 
 textarea:focus {

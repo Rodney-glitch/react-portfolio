@@ -1,5 +1,6 @@
 .intro {
   display: flex;
+  background-color: #e9ecef;
 }
 
 .i-left {
@@ -25,6 +26,7 @@
 .i-intro {
   font-size: 30px;
   font-weight: 100;
+  overflow: hidden;
 }
 
 .i-name {
