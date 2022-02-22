@@ -107,7 +107,7 @@ p > i {
   align-self: flex-start;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 768px) {
   .a-left {
     display: none;
   }
@@ -118,18 +118,26 @@ p > i {
     margin: 10px 0;
     align-self: center;
     font-weight: 700;
-    font-size: 50px;
+    font-size: 24px;
   }
 
   .a-right-wrapper > h4 {
     font-weight: 300;
     margin: 0 20px;
     flex-wrap: wrap;
+    font-size: 14px;
+    text-align: center;
   }
   .a-right-wrapper > p {
     width: 70%;
     margin-top: 10px;
     font-weight: 200;
     opacity: 0.8;
+    font-size: 12px;
+  }
+  .st-wrapper h2 {
+    margin-bottom: 5px;
+    margin-left: 20%;
+    align-self: flex-start;
   }
 }

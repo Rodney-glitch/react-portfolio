@@ -5,7 +5,7 @@ import "./itemList.css";
 const ItemList = ({ item, id }) => {
   return (
     <li style={id > 0 ? { marginTop: "-10px" } : {}}>
-      <Check className="check" />
+      <Check className="check" fontSize="small" />
       {item}
     </li>
   );

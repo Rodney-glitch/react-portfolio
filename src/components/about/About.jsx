@@ -18,7 +18,7 @@ const About = () => {
           <h2>What I do?</h2>
           <h4>
             When someone asks me what I can do, I answer with "What would you
-            like done so I can make it happen.
+            like done so I can make it happen."
           </h4>
           <p>
             "If someone offers you an amazing opportunity and you're not sure
