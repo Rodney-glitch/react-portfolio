@@ -3,7 +3,7 @@ import { useRef } from "react";
 import emailjs from "emailjs-com";
 import { useState } from "react";
 import { LinkedIn, GitHub, ArrowForward } from "@material-ui/icons";
-import cv from "../../files/Rodney_Ovbiye_Resume.pdf";
+import cv from "../../files/RodneyOvbiyeResume.pdf";
 
 const Contact = () => {
   const formRef = useRef();
